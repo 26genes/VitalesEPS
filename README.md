@@ -101,4 +101,4 @@ Vitalis EPS es una aplicación hibrida desarrollada con React Native (Expo) que 
 
 ## Contacto
 
-¿Dudas o sugerencias? Contáctame a través del repositorio o en mi correo: [ubarnesbarriosj@gmail.com](mailto:ubarnesbarriosj@gmail.com)
+¿Dudas o sugerencias? Contáctame a través del repositorio o en mi correo: [ubarnesbarriosj@gmail.com](mailto:ubarnesbarriosj@gmail.com) [genesvalentina79@gmail.com](mailto:genesvalentina79@gmail.com). [valesaezt21@gmail.com](mailto:valesaezt21@gmail.com).
