@@ -86,11 +86,16 @@ Vitalis EPS es una aplicación hibrida desarrollada con React Native (Expo) que 
 
 ---
 
-##  Notas
+##  Notas y mejoras
 
 - Solo los médicos pueden registrarse desde la app.
 - La validación de rol se realiza desde Firestore para cada inicio de sesión.
 - El ícono de la aplicación se puede personalizar en `app.json`.
+- Crear las tablas para cada rol en la base de datos
+- Agregar el cambiar contraseña para todos los usuarios
+- Que el agendar citas quede totalmente funcional
+- Mejorar el disñeo visual
+- Mejor version web que presenta algunos errores
 
 ---
 
